@@ -1,4 +1,4 @@
-name: CI
+name: CI belajar
 
 on: [push, pull_request]
 
